@@ -15,9 +15,6 @@ import hashlib
 import datetime
 import random
 
-# ──────────────────────────────────────────────
-# CONSTANTS
-# ──────────────────────────────────────────────
 
 DATA_FILE = "bank_data.json"
 MAX_PIN_ATTEMPTS = 3
