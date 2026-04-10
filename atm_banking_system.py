@@ -1,6 +1,5 @@
 """
 ATM Banking System
-
 A professional, menu-driven ATM simulation using only Python built-ins.
 Data is persisted to a JSON file so accounts survive restarts.
 
