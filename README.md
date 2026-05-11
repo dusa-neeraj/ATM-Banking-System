@@ -1,4 +1,4 @@
-🏧 ATM Banking System
+ATM Banking System
 Description
   •	Python-based ATM system that allows users to check balance, deposit, and withdraw money using JSON file storage.
 Features
